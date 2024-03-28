@@ -49,7 +49,7 @@ To replicate the analysis or contribute to the project, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/X-Saikat-93/Ecommerce-Intelligence-Hub.git
+   git clone https://github.com/X-Saikat-93/Market-Lens.git
    ```
 
 2. **Install the required dependencies:**
